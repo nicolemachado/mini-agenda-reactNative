@@ -1,5 +1,5 @@
 # mini-agenda-reactNative
-Teste 1 em react native, uma mini agenda que a única funcionalidade por enquanto é o alert com nome do contato :)
+Teste 1 em react native, APK de uma mini agenda que a única funcionalidade por enquanto é o alert com nome do contato :)
 
 
  <img src="https://cdn.discordapp.com/attachments/857752764577742848/890054093438083122/agenda-02.jpg" width=200px, >
